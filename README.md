@@ -5,15 +5,15 @@ Nov 13-16, 2023 : Agile Testing Days (Speaker)
 
 
 # Past Engagements 2023
-Jan 13 - Feb 9, 2023 : Agile Virgin Agile-A-Thon (Judge)
-May 7, 2023 : [Testing Peers #80 - What do testers do?](https://testingpeers.com/?p=6442)
-Mar 8-9, 2023 : TAU Conference (Moderator)
-Mar 15, 2023 : TwitterSpaces - The Good, The Bad, & The Flaky (Panelist)
-May 22-24, 2023 : AgileTD USA
+Jan 13 - Feb 9, 2023 : Agile Virgin Agile-A-Thon (Judge)  
+May 7, 2023 : [Testing Peers #80 - What do testers do?](https://testingpeers.com/?p=6442)  
+Mar 8-9, 2023 : TAU Conference (Moderator)  
+Mar 15, 2023 : TwitterSpaces - The Good, The Bad, & The Flaky (Panelist)  
+May 22-24, 2023 : AgileTD USA  
 May 30-31, 2023 : Geekle QA Global Summit  
-Jun 12, 2023 : Iti Shruti - Roundtable Community 
-Jun 13-16, 2023 : EuroSTAR Testing Conference 
-Jun 21-23, 2023 : Kansas City Developer Conference
+Jun 12, 2023 : Iti Shruti - Roundtable Community  
+Jun 13-16, 2023 : EuroSTAR Testing Conference  
+Jun 21-23, 2023 : Kansas City Developer Conference  
 
 
 # Past Engagements 2022  
