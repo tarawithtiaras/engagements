@@ -26,7 +26,7 @@ July 20-22, 2022 : Midwest Dreamin'
 June 21-23,2022: Kansas City Developer Conference  
 5/31/22 League of Extraordinary DevOps: How to Build for Innovation  
 May 3-5, 2022 : SauceCon  
-5/4/22 League of Extraordinary DevOps: How to Build Your Change Management Kit  
+5/ 4/22 League of Extraordinary DevOps: How to Build Your Change Management Kit  
 4/14/22 League of Extraordinary DevOps: Why UX Testing is Essential for Agile Teams  
 3/31/22 League of Extraordinary DevOps: The Dos and Donts of Test Automation              
 3/16/22 League of Extraordinary DevOps: 3 Tips to Embed Security Into Your DevOps Processes  
