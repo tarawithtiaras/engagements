@@ -1,7 +1,7 @@
 # Upcoming
-July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)
-Jul , 2023 : Testing Peers #  - Creating Content
-Nov 13-16, 2023 : Agile Testing Days (Speaker) 
+July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)  
+Jul , 2023 : Testing Peers #  - Creating Content  
+Nov 13-16, 2023 : Agile Testing Days (Speaker)  
 
 
 # Past Engagements 2023
