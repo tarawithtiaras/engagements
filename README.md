@@ -6,7 +6,7 @@ Nov 13-16, 2023 : Agile Testing Days (Speaker)
 # Past Engagements 2023
 Jul 31, 2023 : [Testing Peers #86  - Creating Content](https://testingpeers.com/?p=7147) (Guest)   
 July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)  
-Jun 21-23, 2023 : Kansas City Developer Conference (Speaker) 
+Jun 21-23, 2023 : Kansas City Developer Conference (Speaker)  
 Jun 13-16, 2023 : EuroSTAR Testing Conference (Speaker)  
 Jun 12, 2023 : Iti Shruti - Roundtable Community (Guest)  
 May 30-31, 2023 : Geekle QA Global Summit (Speaker)   
