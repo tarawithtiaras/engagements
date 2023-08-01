@@ -1,5 +1,5 @@
 # Upcoming
-Aug 27, 2003 : [Testing Peers #86 - Feedback]()
+Aug 27, 2003 : [Testing Peers #86 - Feedback]()  
 Nov 13-16, 2023 : Agile Testing Days (Speaker)  
 
 
