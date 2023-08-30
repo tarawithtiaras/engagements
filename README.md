@@ -1,9 +1,9 @@
 # Upcoming
-Aug 27, 2003 : [Testing Peers #86 - Feedback]()  
 Nov 13-16, 2023 : Agile Testing Days (Speaker)  
 
 
 # Past Engagements 2023
+Aug 27, 2003 : [Testing Peers #88 - Feedback](https://testingpeers.com/?p=7311) (Guest)  
 Jul 31, 2023 : [Testing Peers #86  - Creating Content](https://testingpeers.com/?p=7147) (Guest)   
 July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)  
 Jun 21-23, 2023 : Kansas City Developer Conference (Speaker)  
