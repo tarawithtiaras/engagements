@@ -1,8 +1,12 @@
-# Upcoming
-Nov 13-16, 2023 : Agile Testing Days (Speaker)  
+# Upcoming 2024
+
+Adobo and Avocados
+Fireside with Voxgig
 
 
 # Past Engagements 2023
+Dec 18, 2023 : [Testing Peers #96 - Would Heu-risk it? at Christmas](https://testingpeers.com/?p=8123) (Guest)
+Nov 13-16, 2023 : Agile Testing Days (Speaker)  
 Aug 27, 2003 : [Testing Peers #88 - Feedback](https://testingpeers.com/?p=7311) (Guest)  
 Jul 31, 2023 : [Testing Peers #86  - Creating Content](https://testingpeers.com/?p=7147) (Guest)   
 July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)  
