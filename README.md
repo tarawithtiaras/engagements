@@ -1,37 +1,93 @@
-# Upcoming 2024
+<a name="readme-top"></a>
 
-Adobo and Avocados
-Fireside with Voxgig
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">project_title</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
 
 
-# Past Engagements 2023
-Dec 18, 2023 : [Testing Peers #96 - Would Heu-risk it? at Christmas](https://testingpeers.com/?p=8123) (Guest)
-Nov 13-16, 2023 : Agile Testing Days (Speaker)  
-Aug 27, 2003 : [Testing Peers #88 - Feedback](https://testingpeers.com/?p=7311) (Guest)  
-Jul 31, 2023 : [Testing Peers #86  - Creating Content](https://testingpeers.com/?p=7147) (Guest)   
-July 11, 2023 : AI in QA and Testing Conference 2023 (Moderator)  
-Jun 21-23, 2023 : Kansas City Developer Conference (Speaker)  
-Jun 13-16, 2023 : [EuroSTAR Testing Conference](https://conference.eurostarsoftwaretesting.com/event/2023/dungeons-dragons-becoming-the-hero-of-the-sprint/) (Speaker)  
-Jun 12, 2023 : [Iti Shruti - Roundtable Community](https://youtu.be/BUAdrB56b1I) (Guest)  
-May 30-31, 2023 : [Geekle QA Global Summit](https://www.youtube.com/live/hejx4eQW_JY?si=ZyIa7xvZ2WDZ9YMs&t=21500) (Speaker)   
-May 22-24, 2023 : [AgileTD USA](https://agiletestingdays.us/2023/session/dungeons-and-dragons-the-battle-for-api/) (Speaker)  
-Mar 15, 2023 : [TwitterSpaces - The Good, The Bad, & The Flaky](https://twitter.com/i/spaces/1yNxaNPPEpDKj?) (Panelist)  
-Mar 8-9, 2023 : [TAU Conference](http://tauconference.com/a0k) (Moderator)  
-May 7, 2023 : [Testing Peers #80 - What do testers do?](https://testingpeers.com/?p=6442) (Guest)  
-Jan 13 - Feb 9, 2023 : [Agile Virgin Agile-A-Thon](https://agileathon.agilevirgin.in/agileathon) (Judge)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    <li><a href="#contact">Contact</a></li>
+    <!--
+    <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+  </ol>
+</details>
 
-# Past Engagements 2022  
-Nov 6-11, 2022 : Agile + DevOps East  
-Oct 22, 2022 : League of Extraordinary DevOps: How to Drive High Quality Products    
-Oct 15, 2022 : Springfield Devs    
-Sept 16-18, 2022 : Game of Testing Unconference  
-Aug 30, 2022: Webomates Presents: Traditional Test Automation vs AI Test Automation  
-July 20-22, 2022 : Midwest Dreamin'   
-June 21-23,2022 : Kansas City Developer Conference  
-May 31, 2022:  League of Extraordinary DevOps: How to Build for Innovation  
-May 3-5, 2022 : SauceCon  
-May 4, 2022 : League of Extraordinary DevOps: How to Build Your Change Management Kit  
-Apr 14, 2022 : League of Extraordinary DevOps: Why UX Testing is Essential for Agile Teams  
-Mar 31, 2022 : League of Extraordinary DevOps: The Dos and Donts of Test Automation              
-Mar 16, 2022 : League of Extraordinary DevOps: 3 Tips to Embed Security Into Your DevOps Processes  
-Feb 24, 2022 : League of Extraordinary DevOps: Why Developers Should Love Testing  
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<!--
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+I am attempting to keep track of all the things that have happened over the last few years. A "brag sheet" if you will about what I've accomplished for the year.
+
+In theory, these will later be rounded up with videos and samples as a way of building a portfolio, but up until this point (2022) in my career, most everything has been behind an NDA or belongs to the company and not me.
+
+If there is something you would like me to take part in, or a topic you'd like to see me tackle - I'm open to ideas. Feel free to contact me by any of the methods below.
+
+<!--
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+-->
+
+
+<!-- CONTACT -->
+## Contact
+
+Tara Walton, aka TaraWithTiaras
+
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS 
+## Acknowledgments
+
+* []()
+* []()
+* []()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+-->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn--Blue?style=social&logo=LinkedIn&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftarawalton%2F
+[linkedin-url]: https://www.linkedin.com/in/tarawalton/
+
+[twitter-shield]: https://img.shields.io/badge/Twitter--Grey?style=social&logo=X&label=Twitter&link=https%3A%2F%2Ftwitter.com%2FTaraWithTiaras
+[twitter-url]: https://twitter.com/TaraWithTiaras
+
+[product-screenshot]: images/screenshot.png
