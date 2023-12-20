@@ -1,5 +1,5 @@
 # Summary
-6 podcasts
+7 podcasts
 5 conferences
 3 host/moderator
 
@@ -9,7 +9,8 @@
 Dec 18 : [Testing Peers #96 - Would Heu-risk it? at Christmas](https://testingpeers.com/?p=8123) (Guest)  
 Nov 13-16 : [Agile Testing Days](https://agiletestingdays.com/) (Speaker)  
 Oct 28 : [Selenium Conference](https://www.selenium.dev/sosc/) (Organizer)  
-Aug 27, 2003 : [Testing Peers #88 - Feedback](https://testingpeers.com/?p=7311) (Guest)  
+Aug 27 : [Testing Peers #88 - Feedback](https://testingpeers.com/?p=7311) (Guest)  
+Aug 15 : [Karen Tests with Tiaras - KCDC 2023](https://www.youtube.com/watch?v=R-nUlNcdIek) (Guest)  
 Jul 31 : [Testing Peers #86  - Creating Content](https://testingpeers.com/?p=7147) (Guest)   
 July 11 : [AI in QA and Testing Conference 2023](https://geekle.us/) (Moderator)  
 Jun 21-23 : [Kansas City Developer Conference](kcdc.info) (Speaker)  
