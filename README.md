@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tarawithtiaras/engagements">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="50%" height="50%">
   </a>
 
 <h3 align="center">Brag Sheet</h3>
