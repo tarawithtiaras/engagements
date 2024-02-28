@@ -3,16 +3,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/tarawithtiaras/engagements">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Brag Sheet</h3>
 
   <p align="center">
-    project_description
+    A collection of achievements and adventures.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!--
+    <a href="https://github.com/tarawithtiaras/engagements"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -20,6 +21,7 @@
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    -->
   </p>
 </div>
 
@@ -43,11 +45,11 @@
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-I am attempting to keep track of all the things that have happened over the last few years. A "brag sheet" if you will about what I've accomplished for the year.
+I am attempting to keep track of everything that has happened over the last few years. A "brag sheet", if you will, about what I've accomplished for the year.
 
-In theory, these will later be rounded up with videos and samples as a way of building a portfolio, but up until this point (2022) in my career, most everything has been behind an NDA or belongs to the company and not me.
+In theory, these will later be rounded up with videos and samples as a way of building a portfolio, but up until 2022, most everything had been behind an NDA or belonged to the company and not me.
 
-If there is something you would like me to take part in, or a topic you'd like to see me tackle - I'm open to ideas. Feel free to contact me by any of the methods below.
+If there is something you would like me to take part in or a topic you'd like to see me tackle - I'm open to ideas. Feel free to contact me by any of the methods below.
 
 <!--
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
