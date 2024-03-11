@@ -4,5 +4,5 @@
 02/13: [Fireside with Voxgig, Episode 150](https://www.voxgig.com/podcast/tara-walton-test-automation-developer) : Guest  
 03/10: [Testing Peers #102: Measurements]() : Guest
 
-06/26: [Kansas City Developer Conference](https://www.kcdc.info/): Speaker - 3rd year!
-10/09: [AutomationSTAR](https://automation.eurostarsoftwaretesting.com/) : Declined Speaker - Couldn't Go :( 
+06/26: [Kansas City Developer Conference](https://www.kcdc.info/): Speaker - 3rd year!  
+10/09: [AutomationSTAR](https://automation.eurostarsoftwaretesting.com/) : Declined Speaker - Couldn't Go :(   
