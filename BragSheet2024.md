@@ -1,7 +1,7 @@
 # Summary
-7 podcast appearances
-3 blogs
-2 conferences
+7 podcast appearances  
+3 blogs  
+2 conferences  
 
 
 # Engagements
