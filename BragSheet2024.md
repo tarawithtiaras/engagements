@@ -11,3 +11,9 @@
 10/09: [AutomationSTAR](https://automation.eurostarsoftwaretesting.com/) : Declined Speaker - Couldn't Go :(   
 12/03: [Testing Peers #121: Tools for Testers](https://testingpeers.com/?p=8473) : Guest
 12/??: [Testing Peers #  ](): Guest 
+
+
+# Stuff I Wrote and Shared
+10/28: [Salesforce Ben - Walk Before You Run](https://www.salesforceben.com/walk-before-you-run-build-quality-salesforce-solutions-one-step-at-a-time/)  
+09/13: [How to Make the Most of Conferences](https://provar.com/blog/tips/how-to-make-the-most-of-conferences/)  
+06/20: [What at First You Don't Succeed](https://provar.com/blog/university-of-provar/when-at-first-you-dont-succeed-fail-fail-again/)
