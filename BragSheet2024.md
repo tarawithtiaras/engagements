@@ -14,8 +14,8 @@
 9/16-17: [DevOps Days Denver](https://youtu.be/HdMa-EGFGe0?si=vzsPEIGBRtsGzpoG) : Speaker   
 9/17-20: Dreamforce: Booth Attendant  
 10/09: [AutomationSTAR](https://automation.eurostarsoftwaretesting.com/) : Declined Speaker - Couldn't Go :(   
-12/03: [Testing Peers #121: Tools for Testers](https://testingpeers.com/?p=8473) : Guest
-12/??: [Testing Peers #  ](): Guest 
+12/03: [Testing Peers #121: Tools for Testers](https://testingpeers.com/?p=8473) : Guest 
+12/??: [Testing Peers #xxx: Christmas Episode](): Guest 
 
 
 # Stuff I Wrote and Shared
